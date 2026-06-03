@@ -1,4 +1,4 @@
-# Obianuju Maryann Anaebo — Portfolio Website
+# My Portfolio Website
 
 Personal data science portfolio website showcasing projects, skills, and experience.
 
@@ -9,6 +9,10 @@ Built with HTML and CSS. Features:
 - Data Science projects including NLP Sentiment Analysis and Customer Churn Prediction
 - Technical skills overview
 - Contact information
+
+## Projects Featured
+- **Amazon E-Commerce Sentiment Analysis** — NLP pipeline achieving 92% accuracy, deployed via Flask & Streamlit
+- **ConnectTel Customer Churn Prediction** — Supervised ML pipeline with AUC-ROC evaluation
 
 ## Author
 **Obianuju Maryann Anaebo**
